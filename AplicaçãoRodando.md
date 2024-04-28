@@ -6,6 +6,6 @@ Instrução para rodar:
 
 1 - Tenha o node instalado
 
-2 - Abra o cmd dentro da sua pasta criada e rode: npm install -g @angular/cli
+2 - Abra o cmd dentro da sua pasta criada e instale o angular rodando (em alguns casos vai pedir apenas npm install): npm install -g @angular/cli
 
 3 - Para executar a página, digite: ng serve --open
