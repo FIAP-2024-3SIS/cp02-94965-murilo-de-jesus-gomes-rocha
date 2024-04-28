@@ -2,7 +2,7 @@ Print da Aplicação rodando:
 
 ![aplicacao_rodando](https://github.com/FIAP-2024-3SIS/cp02-94965-murilo-de-jesus-gomes-rocha/assets/159389267/7d00d345-b938-4af8-853b-a366898a1bd2)
 
-Instrução para rodar:
+Instruções para rodar:
 
 1 - Tenha o node instalado
 
